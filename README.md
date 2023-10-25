@@ -1,1 +1,1 @@
-# generative-gin
+# generative-gnn
